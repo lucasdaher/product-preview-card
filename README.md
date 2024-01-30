@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/lucasdaher/product-preview-card](https://github.com/lucasdaher/product-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://lucasdaher-product-preview-card.netlify.app](https://lucasdaher-product-preview-card.netlify.app)
 
 ## My process
 I started with the full development of HTML and then started styling using SASS. To do the styling I used the mobile-first workflow. To do the styling I used the mobile-first workflow. After finishing, I performed all the settings needed for the project to be responsive.
